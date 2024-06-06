@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="./assets/css/style.css" />
+        <title>Promotion</title>
+    </head>
+    <body>
+        <div class="container">
+            <h1>Calculateur de Réduction</h1>
+            <form id="reductionForm">
+                <label for="originalPrice">Prix d'origine (€):</label>
+                <input type="number" id="originalPrice" name="originalPrice" step="0.01" />
+                <label for="reducedPrice">Prix réduit (€):</label>
+                <input type="number" id="reducedPrice" name="reducedPrice" step="0.01" />
+                <label for="discountPercentage">Pourcentage de réduction (%):</label>
+                <input
+                    type="number"
+                    id="discountPercentage"
+                    name="discountPercentage"
+                    step="0.01"
+                />
+                <center>
+                    <input type="button" value="Calculer" onclick="calculateReduction()" />
+                </center>
+            </form>
+            <div id="result"></div>
+        </div>
+        <script src="./assets/js/script.js"></script>
+    </body>
+</html>
