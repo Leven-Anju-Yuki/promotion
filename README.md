@@ -31,7 +31,7 @@ Ce projet est conçu pour être simple et facile à utiliser, avec une interface
 
 1. Clonez le dépôt:
     ```bash
-    git clone https://github.com/votre-utilisateur/calculateur-de-reduction.git
+    git clone https://github.com/Leven-Anju-Yuki/promotion.git
     ```
 2. Accédez au répertoire du projet:
     ```bash
@@ -48,9 +48,7 @@ Ce projet est conçu pour être simple et facile à utiliser, avec une interface
 
 ## Auteur
 
-- **Votre Nom** - [Votre Profil GitHub](https://github.com/votre-utilisateur)
+- **Florie** - [Votre Profil GitHub](https://github.com/Leven-Anju-Yuki)
 
-## Licence
 
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
